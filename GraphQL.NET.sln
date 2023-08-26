@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLProductApp", "GraphQL.NET\GraphQLProductApp.csproj", "{22051BE3-7D22-4F11-9FC8-523E717136FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpDemoRider", "RestSharpDemoRider\RestSharpDemoRider\RestSharpDemoRider.csproj", "{D15BF078-345B-40A5-AEAE-986CB8B8F80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22051BE3-7D22-4F11-9FC8-523E717136FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22051BE3-7D22-4F11-9FC8-523E717136FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22051BE3-7D22-4F11-9FC8-523E717136FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22051BE3-7D22-4F11-9FC8-523E717136FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15BF078-345B-40A5-AEAE-986CB8B8F80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15BF078-345B-40A5-AEAE-986CB8B8F80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15BF078-345B-40A5-AEAE-986CB8B8F80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15BF078-345B-40A5-AEAE-986CB8B8F80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
